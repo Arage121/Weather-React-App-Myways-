@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Weather-React-App-Myways-/static/css/main.bd5c51d8.css",
+    "main.js": "/Weather-React-App-Myways-/static/js/main.0dfccb0d.js",
+    "static/media/cold.jpg": "/Weather-React-App-Myways-/static/media/cold.78871885682c886d05a6.jpg",
+    "static/media/warm.jpg": "/Weather-React-App-Myways-/static/media/warm.6a350ad09110714cc789.jpg",
+    "static/media/welcome.jpg": "/Weather-React-App-Myways-/static/media/welcome.25638947ba77d2404253.jpg",
+    "static/media/medium.jpg": "/Weather-React-App-Myways-/static/media/medium.8b8c3d217124e5a94010.jpg",
+    "static/media/lesscold.jpg": "/Weather-React-App-Myways-/static/media/lesscold.40c95a5b1441c3a5e1be.jpg",
+    "index.html": "/Weather-React-App-Myways-/index.html",
+    "main.bd5c51d8.css.map": "/Weather-React-App-Myways-/static/css/main.bd5c51d8.css.map",
+    "main.0dfccb0d.js.map": "/Weather-React-App-Myways-/static/js/main.0dfccb0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5c51d8.css",
+    "static/js/main.0dfccb0d.js"
+  ]
+}
